@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+openpyxl
+xlsxwriter
+langchain
+langchain-google-genai
+google-generativeai
