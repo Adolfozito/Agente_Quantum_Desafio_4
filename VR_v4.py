@@ -567,7 +567,7 @@ def processar_calculo_vr() -> str:
 # =====================================================================================
 
 st.set_page_config(layout="wide", page_title="Agente de IA para Análise de VR - Versão Melhorada")
-st.title("🧠 Agente de IA Dinâmico para Automação de VR/VA (Versão Melhorada com Gemini-2.5-Flash)")
+st.title("🧠 Agente de IA para Automação de VR - Grupo Quantum - I2A2 (Com Gemini-2.5-Flash)")
 
 if 'dfs' not in st.session_state: 
     st.session_state.dfs = {}
@@ -872,4 +872,5 @@ else:
 
 # Footer
 st.markdown("---")
+
 st.markdown("🤖 **Powered by Gemini-2.5-Flash** | 📊 **Análise Inteligente de VR/VA**")
