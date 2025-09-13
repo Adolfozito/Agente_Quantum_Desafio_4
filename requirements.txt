@@ -6,3 +6,6 @@ xlsxwriter
 langchain
 langchain-google-genai
 google-generativeai
+langchain-community
+langchainhub
+holidays
